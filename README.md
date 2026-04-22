@@ -12,7 +12,7 @@ A sleek, functional basic calculator built using HTML, CSS, and JavaScript as pa
 
 ## 🛠️ Technology Stack
 
-- **HTML5**: For the structural foundation.
+- **HTML5**: For the structural foundation
 - **CSS3**: For custom styling and responsive layout.
 - **JavaScript (ES6+)**: For the core calculator logic.
 
